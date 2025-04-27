@@ -1,0 +1,33 @@
+{
+  "id": "bruines",
+  "title": "Exploirateurs de Bruines",
+  "description": "A Foundry VTT system for 'Exploirateurs de bruines', the whimsical and poetic fantasy roleplaying game by Vivien Féasson",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.317",
+    "maximum": "13"
+  },
+  "authors": [
+    {
+      "name": "La Brioche Masquée",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "scripts": [],
+  "esmodules": [],
+  "styles": ["styles/style.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "French",
+      "path": "lang/fr.json"
+    }
+  ],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE"
+}
